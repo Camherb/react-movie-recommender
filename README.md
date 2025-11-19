@@ -1,5 +1,5 @@
-# React Movie Recommender
-https://cameronherbert.com
+# [React Movie Recommender](https://cameronherbert.com)
+
 
 A responsive and modern React-based movie recommendation app that allows users to search for movies, browse trending films, and view detailed information fetched in real time.
 This project demonstrates API integration, clean UI design, loading states, error handling, and component-based architecture.
