@@ -1,17 +1,28 @@
-# React + Vite
+# React Movie Recommender
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern React-based movie recommendation app that allows users to search for movies, browse trending films, and view detailed information fetched in real time.
+This project demonstrates API integration, clean UI design, loading states, error handling, and component-based architecture.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Search Movies: Search for any movie using a debounced input, powered by an external movie API.
 
-## React Compiler
+⭐ Trending Movies: Displays a list of trending movies based on search frequency metrics stored in AppWrite.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎞 Movie Cards: Each card includes a poster image, title, rating, release year, and language.
 
-## Expanding the ESLint configuration
+⚡ Fully Responsive UI: Built with modern layout techniques to look great on all screen sizes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-test
+🧠 Smart Debounced Search: Reduces unnecessary API calls for a smoother user experience.
+
+## Tech Stack
+
+Appwrite: Database Management for trending movie feature
+
+React.js
+
+React-use
+
+Tailwind CSS 
+
+Vite 
