@@ -18,12 +18,12 @@ This project demonstrates API integration, clean UI design, loading states, erro
 
 ## Tech Stack
 
-Appwrite: Database Management for trending movie feature
-
-React.js
+React
 
 React-use
 
 Tailwind CSS 
 
 Vite 
+
+Appwrite: Database Management for trending movies feature
