@@ -20,8 +20,6 @@ This project demonstrates API integration, clean UI design, loading states, erro
 
 React
 
-React-use
-
 Tailwind CSS 
 
 Vite 
